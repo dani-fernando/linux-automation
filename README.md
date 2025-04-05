@@ -1,6 +1,6 @@
-# **Linux & FreeBSD Automation Project**
+# **Linux Automation Project**
 
-Welcome to the **Linux & FreeBSD Automation Project**! 🌟 This repository contains automation scripts and tools designed to streamline server provisioning, configuration management, and deployment tasks for both Linux and FreeBSD systems. Whether you're managing a single server or an entire infrastructure, this project aims to make your life as a sysadmin easier.
+Welcome to the **Linux Automation Project**! 🌟 This repository contains automation scripts and tools designed to streamline server provisioning, configuration management, and deployment tasks for both Linux and systems. Whether you're managing a single server or an entire infrastructure, this project aims to make your life as a sysadmin easier.
 
 ---
 ![Linux Automation](https://raw.githubusercontent.com/dani-fernando/linux-automation/refs/heads/main/image/home.jpg)   
@@ -32,7 +32,7 @@ The tools used in this project include:
 ---
 
 ## **Features**
-✅ Automate server setup for both Linux and FreeBSD  
+✅ Automate server setup for both Linux  
 ✅ Provision VMs/containers with ease  
 ✅ Deploy services like Nginx, Apache, and more  
 ✅ Backup automation with `rsync` and `cron`  
@@ -48,8 +48,6 @@ Before you begin, ensure you have the following installed on your system:
 - **Ansible** (`pip install ansible`)
 - **SSH access** to target servers
 - **Git** (to clone this repository)
-
-For FreeBSD-specific tasks, ensure your system is running FreeBSD 12.x or later.
 
 ### **Installation**
 1. **Clone the Repository**:
