@@ -3,8 +3,7 @@
 Welcome to the **Linux & FreeBSD Automation Project**! 🌟 This repository contains automation scripts and tools designed to streamline server provisioning, configuration management, and deployment tasks for both Linux and FreeBSD systems. Whether you're managing a single server or an entire infrastructure, this project aims to make your life as a sysadmin easier.
 
 ---
-
-![Linux Automation](https://example.com/waifu.jpg)
+![Linux Automation](https://raw.githubusercontent.com/dani-fernando/linux-automation/refs/heads/main/image/home.jpg)   
 
 ## **Table of Contents**
 1. [Overview](#overview)
