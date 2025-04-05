@@ -96,13 +96,7 @@ To schedule daily backups, add the following to your crontab:
 0 2 * * * /path/to/scripts/backup.sh
 ```
 
-### **3. Manage FreeBSD Jails**
-Use the `iocage` script to create and manage jails:
-```bash
-./scripts/create-jail.sh myjail 192.168.1.100
-```
-
-### **4. Monitor Resources**
+### **3. Monitor Resources**
 Run the monitoring script to check CPU usage:
 ```bash
 ./scripts/monitor-cpu.sh
